@@ -6,7 +6,7 @@
 <h3 align="center">I have a lot of different interests, but some of my favorite (projects) are:</h4>
 
 <div align="center">
-  <a href="https://arcmc.dk/" target="_blank">ArcMC</a>
+  <a href="https://www.arcmc.dk/" target="_blank">ArcMC</a>
   <br />
   A classic prisonserver, where your goal is to rank up & earn money.
   <br />
