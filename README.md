@@ -16,7 +16,7 @@
   <br />
   <a href="https://todo.sqmmer.dk/" target="_blank">Todoliste</a>
   <br />
-  A danish minecraftserver, which is the largest in it's category. I've coded the java part of the server.
+  A simple yet practical free, online todolist, where you can view & manage tasks you have to do.
   <br />
   <a href="https://formu.xyz/" target="_blank">Formu</a>
   <br />
@@ -57,4 +57,5 @@
   $${\color{gray}... \space and \space more \space [28/08/2024]}$$
   
 </div>
+
 
