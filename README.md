@@ -12,7 +12,15 @@
   <br />
   <a href="https://mintmc.dk/" target="_blank">MintMC.dk</a>
   <br />
-  A danish minecraftserver, which is the largest in it's category.
+  A danish minecraftserver, which is the largest in it's category. I've coded the java part of the server.
+  <br />
+  <a href="https://todo.sqmmer.dk/" target="_blank">Todoliste</a>
+  <br />
+  A danish minecraftserver, which is the largest in it's category. I've coded the java part of the server.
+  <br />
+  <a href="https://formu.xyz/" target="_blank">Formu</a>
+  <br />
+  An online forms service, where you can create a team to view & manage forms, use the API to get specific data & customize every part of your form using the formbuilder tool.
   <br />
 </div>
 <hr />
@@ -49,3 +57,4 @@
   $${\color{gray}... \space and \space more \space [28/08/2024]}$$
   
 </div>
+
