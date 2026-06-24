@@ -1,61 +1,107 @@
-﻿<h3 align="center">Hi! I'm a developer based in Denmark.</h2>
-<h4 align="center">Currently I'm learning <b>Python</b>.</h4>
+# 👋 Hey, I'm Christian Sommer
 
-<hr />
+[![Visitor Count](https://komarev.com/ghpvc/?username=Sommer420\&color=0D1117\&style=flat-square)](https://github.com/Sommer420)
+[![Followers](https://img.shields.io/github/followers/Sommer420?color=0D1117\&style=flat-square)](https://github.com/Sommer420)
 
-<h3 align="center">I have a lot of different interests, but some of my favorite (projects) are:</h4>
+I'm a self-taught developer from Denmark 🇩🇰
+I build practical software, scalable systems and clean digital products.
 
-<div align="center">
-  <a href="https://www.arcmc.dk/" target="_blank">ArcMC</a>
-  <br />
-  A classic prisonserver, where your goal is to rank up & earn money.
-  <br />
-  <a href="https://mintmc.dk/" target="_blank">MintMC.dk</a>
-  <br />
-  A danish minecraftserver, which is the largest in it's category. I've coded the java part of the server.
-  <br />
-  <a href="https://todo.sqmmer.dk/" target="_blank">Todoliste</a>
-  <br />
-  A simple yet practical free, online todolist, where you can view & manage tasks you have to do.
-  <br />
-  <a href="https://formu.xyz/" target="_blank">Formu</a>
-  <br />
-  An online forms service, where you can create a team to view & manage forms, use the API to get specific data & customize every part of your form using the formbuilder tool.
-  <br />
-</div>
-<hr />
+I mainly work with **Java**, **TypeScript**, **Next.js**, **Minecraft plugins**, **Discord bots** and **backend systems**.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <!---<img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="30" alt="apache logo"  />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />--
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge" height="30" alt="babel logo"  />-->
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
-  <!---<img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
-  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />-->
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <!---<img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="30" alt="nuxtjs logo"  />-->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <!---<img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="30" alt="raspberrypi logo"  />
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" alt="swift logo"  /> -->
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <!---<img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="30" alt="webpack logo"  />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"  />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" height="30" alt="xcode logo"  />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo" -->
-  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" height="30" alt="gradle logo"  />
-  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="30" alt="maven logo"  />
+---
 
-  $${\color{gray}... \space and \space more \space [28/08/2024]}$$
-  
-</div>
+## 🚀 About me
 
+* 🇩🇰 Based in Denmark
+* 💻 Self-taught developer
+* ⚙️ Focused on backend systems, web apps and automation
+* 🎮 Experienced with Minecraft server development
+* 🤖 Building Discord bots, dashboards and integrations
+* 🧠 Interested in SaaS, AI tools and scalable software
+* 🎨 I care about clean UI, good structure and real-world usability
 
+---
+
+## 🛠️ Tech stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square\&logo=mysql\&logoColor=4479A1)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square\&logo=html5\&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square\&logo=css3\&logoColor=1572B6)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square\&logo=node.js\&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square\&logo=mysql\&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square\&logo=sqlite\&logoColor=003B57)
+![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=flat-square\&logo=fastapi\&logoColor=white)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square\&logo=tailwindcss\&logoColor=38BDF8)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0D1117?style=flat-square\&logo=shadcnui\&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square\&logo=github\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=flat-square\&logo=intellijidea\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square\&logo=visualstudiocode\&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square\&logo=vercel\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square\&logo=linux\&logoColor=FCC624)
+
+---
+
+## 🧩 What I build
+
+### 🎮 Minecraft systems
+
+Custom Minecraft server systems with economy, GUIs, mines, crates, staff tools, shops, Discord linking and database-backed player data.
+
+### 🌐 Web applications
+
+Modern websites and SaaS-style platforms using **Next.js**, **TypeScript**, **Tailwind CSS** and database integrations.
+
+### 🤖 Discord bots
+
+Bots with commands, embeds, role management, logging, account linking and backend integrations.
+
+### 📊 Dashboards & automation
+
+Tools for server management, moderation, analytics, workflows and admin panels.
+
+---
+
+## 🔥 Current interests
+
+* 🧠 AI-assisted tools
+* 📦 SaaS products
+* ⚖️ Compliance monitoring platforms
+* 🎮 Minecraft server infrastructure
+* 🔐 Authentication and account systems
+* 📊 Dashboards and internal tools
+* ⚙️ Scalable backend architecture
+* 🎨 Clean and professional UI/UX
+
+---
+
+## 📈 GitHub stats
+
+![Sommer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sommer420\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sommer420\&layout=compact\&theme=github_dark\&hide_border=true)
+
+---
+
+## 📫 Contact
+
+You can find my projects here on GitHub.
+
+Feel free to reach out through GitHub if you want to connect, ask about a project or follow what I'm building.
